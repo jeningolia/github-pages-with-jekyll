@@ -3,10 +3,7 @@
 We are excited to bring you the first ever GitHub Club coming in May of 2019 ...
 
 <table>
-  <col width="500">
-  <col width="500"
   <tr>
-    <td align=center>
       <h3><b><a href="https://githubber.com/category/crafts/sales/sales-guide">Destination</a></b><br/>
       </h3>
       The Resort & The Island<br/>
