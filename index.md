@@ -9,10 +9,10 @@
       </h2>How to get to Club & The Leaderboard<br/> 
      <br>
       <h2><b><a href="https://githubber.com/category/crafts/sales/customer-facing-resources">Itinerary</a></b><br/>
-      </h2>Coming Soon<br/>
+      </h2>Coming Soon!<br/>
      <br>
       <h2><b><a href="https://githubber.com/category/crafts/sales/customer-facing-resources">Activities</a></b><br/>
-      </h2>Coming Soon<br/>
+      </h2>Coming Soon!<br/>
      <br>
       <h2><b><a href="https://githubber.com/category/crafts/sales/customer-facing-resources">FAQs</a></b><br/>
       </h2>Questions? You've come to the right place<br/>
