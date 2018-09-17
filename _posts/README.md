@@ -1,8 +1,7 @@
 ---
-title: Sales Guide
-owner: sjarolimek
-description: Sales team resources
-chat: [sales-enablement]
+name: Posts
+owner: jeningolia
+description: "All things Club"
+chat: [sales-enablment]
 repos: [github/sales-enablement]
-position: 1
 ---
