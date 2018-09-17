@@ -1,4 +1,4 @@
-<h1>Welcome to the GitHub Club Page!<h1> <h4>We are excited to bring you the first ever GitHub Club coming in May of 2019 ...<h4>
+<h1>Welcome to the GitHub Club Page!<h1> <h3>We are excited to bring you the first ever GitHub Club coming in May of 2019 ...<h3>
 
 <table>
   <tr>
