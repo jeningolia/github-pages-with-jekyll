@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-      <h2><b><a href="">Destination</a></b><br/>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/index/destination/README.html">Destination</a></b><br/>
       </h2>The Resort & The Island<br/>
     <br>
       <h2><b><a href="">Criteria & Standings</a></b><br/>
