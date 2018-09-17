@@ -1,5 +1,5 @@
 ---
-title: Criteria & Standings
+title: Destination
 owner: jeningolia
 description: How to qualify for Club and the leaderboard 
 chat: [sales-enablement]
