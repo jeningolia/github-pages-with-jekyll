@@ -1,11 +1,25 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+<h1>Welcome to the GitHub Club Page!<h1> <h3>We are excited to bring you the first ever GitHub Club coming in May of 2019 ...<h3>
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+<table>
+  <tr>
+      <h2><b><a href="">Destination</a></b><br/>
+      </h2>The Resort & The Island<br/>
+    <br>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/index/criteria-and-standings/README.html">Criteria & Standings</a></b><br/>
+      </h2>How to get to Club & The Leaderboard<br/> 
+     <br>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/index/itinerary/README.html">Itinerary</a></b><br/>
+      </h2>Coming Soon!<br/>
+     <br>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/index/activities/README.html">Activities</a></b><br/>
+      </h2>Coming Soon!<br/>
+     <br>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/index/FAQs/README.html">FAQs</a></b><br/>
+      </h2>Questions? You've come to the right place<br/>
+     <br>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/index/updates/README.html">Updates</a></b><br/>
+      </h2>The Lastest & Greatest<br/>
+     <br>
 
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
+</tr>
+</table>
