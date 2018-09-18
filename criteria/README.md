@@ -1,5 +1,5 @@
 ---
-title: Criteria & Standings
+title: Criteria
 owner: jeningolia
 description: How to qualify for Club and the leaderboard 
 chat: [sales-enablement]
@@ -19,4 +19,3 @@ position: 1
 
 Go get em, Hubbers!!
 
-*Coming Soon: The Leaderboard*
