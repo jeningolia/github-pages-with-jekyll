@@ -7,4 +7,4 @@ repos: [github/sales-enablement]
 position: 1
 ---
 
-Drop in list of ativities 
+Coming Soon!
