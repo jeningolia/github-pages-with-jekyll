@@ -1,11 +1,12 @@
-title: "#catsincaicos"
+title: Cats in Caicos
 author: jeningolia
-email: email: your-email@domain.com
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   We are so excited to bring you the first ever GitHub Club coming in May of 2019. This page is where you'll find all things Club including where we're headed, how to get there, what there is to do, frequently asks questions, and the latest updates. 
 
 # social links
-github_username: 
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
