@@ -5,7 +5,7 @@
       <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/destination/README.html">Destination</a></b><br/>
       </h2>The Resort & The Island<br/>
     <br>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/criteria-and-standings/README.html">Criteria</a></b><br/>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/criteria/README.html">Criteria</a></b><br/>
       </h2>How to get to Club & The Leaderboard<br/> 
      <br>
       <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/itinerary/README.html">Itinerary</a></b><br/>
