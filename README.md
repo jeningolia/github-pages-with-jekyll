@@ -14,7 +14,7 @@
       <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/activities/README.html">Activities</a></b><br/>
       </h2>Coming Soon!<br/>
      <br>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/index/FAQs/README.html">FAQs</a></b><br/>
+      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/FAQs/README.html">FAQs</a></b><br/>
       </h2>Questions? You've come to the right place<br/>
      <br>
       <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/updates/README.html">Updates</a></b><br/>
