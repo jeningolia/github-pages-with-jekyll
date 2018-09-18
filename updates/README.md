@@ -7,4 +7,4 @@ repos: [github/sales-enablement]
 position: 1
 ---
 
-Drop in list of updates
+This is where you'll find any important updates regarding Club. Check in here for the latest and greatest!
