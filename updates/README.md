@@ -9,4 +9,5 @@ position: 8
 
 This is where you'll find any important updates regarding Club. Check in here for the latest and greatest!
 
-* **[September 19th, 2018](https://jeningolia.github.io/github-pages-with-jekyll/updates/_posts/2018-09-19-September-19.html)**
+### **September 19th, 2018** <br>
+Welcome to the GitHub Club website! The Updates section is where you can come for the latest and greatest. We're just at the beginning stages of planning and this is our first ever Club so if you have any question or suggestions about the website... like FAQs we've overlooked or important information that we've left out, please ping @jeningolia directly or reach out to us on via slack #sales-enablement. Thanks!
