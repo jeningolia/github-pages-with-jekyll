@@ -19,4 +19,4 @@ position: 1
 
 Go get em, Hubbers!!
 
-*Coming Soon: The Leaderboard
+*Coming Soon: The Leaderboard*
