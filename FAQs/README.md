@@ -6,24 +6,26 @@ chat: [sales-enablement]
 repos: [github/sales-enablement]
 position: 8
 ---
+
+
 Have questions about Club? You've come to the right place.
 
-**Can we bring a guest?**
+### Can we bring a guest?
 * *Yes! Each Hubber that qualifies for Club can bring one guest (adult only).*
 
-**When will Attendees be determined?**
+### When will Attendees be determined?
 * *TBD*
 
-**When must we RSVP by?**
+### When must we RSVP by?**
 * *TBD*
 
-**What are my flight details?**
+### What are my flight details?**
 * *TBD*
 
-**Can I come early or extend my trip?**
+### Can I come early or extend my trip?**
 * *TBD*
 
-**Can I book my own airport to hotel ground transportation in Turks & Caicos?**
+### Can I book my own airport to hotel ground transportation in Turks & Caicos?**
 * *TBD*
 
 **Will GitHub cover my cell phone roaming fees?**
