@@ -1,28 +1,4 @@
-<h1>Welcome to the GitHub Club Page!<h1> <h3>We are excited to bring you the first ever GitHub Club coming in May of 2019 ...<h3>
+<h1>Welcome to the GitHub Club Page!<h1> <h3>We are excited to bring you the first ever GitHub Club in May of 2019 ...<h3>
 
-<table>
-  <tr>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/destination/README.html">Destination</a></b><br/>
-      </h2>The Resort & The Island<br/>
-    <br>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/criteria/README.html">Criteria</a></b><br/>
-      </h2>How to get to Club<br/> 
-     <br>
-    <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/standings/README.html">Standings</a></b><br/>
-      </h2>Coming Soon!<br/>
-     <br>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/itinerary/README.html">Itinerary</a></b><br/>
-      </h2>Coming Soon!<br/>
-     <br>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/activities/README.html">Activities</a></b><br/>
-      </h2>Coming Soon!<br/>
-     <br>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/FAQs/README.html">FAQs</a></b><br/>
-      </h2>Questions? You've come to the right place<br/>
-     <br>
-      <h2><b><a href="https://jeningolia.github.io/github-pages-with-jekyll/updates/README.html">Updates</a></b><br/>
-      </h2>The Lastest & Greatest<br/>
-     <br>
+<img width="572" alt="screen shot 2019-02-25 at 10 49 36 pm" src="https://user-images.githubusercontent.com/14840774/53392903-af6f0900-394f-11e9-938c-59c24f828799.png">
 
-</tr>
-</table>
