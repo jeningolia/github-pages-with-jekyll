@@ -4,7 +4,7 @@ owner: jeningolia
 description: Coming Soon!
 chat: [sales-enablement]
 repos: [github/sales-enablement]
-position: 1
+position: 5
 ---
 
 Coming Soon!
