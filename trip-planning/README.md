@@ -41,6 +41,10 @@ All attendees can depart Turks and Caicos any time on Friday, May 17th.
 For attendees who want to arrive early and/or depart late to enjoy Turks and Caicos, the hotel will honor our group rates three days prior to 5/13 and three days post 5/17. These rates are subject to hotel availability. Please provide your desired arrival and departure dates PRIOR to booking your flights. We will check hotel availability and confirm with you once requested. 
 
 ## Booking Your Flights
-**Please do not book any flights until you have received an invite from Jen Ingolia to do so.** We are in the process of determining the process for booking flights for this trip, so please hang tight!
+**Please do not book any flights at this time. We are finalizing the process for booking flights for our non-Hubbers, so please hang tight.** 
 
 Turks and Caicos has two international airports and most visitors fly into Providenciales upon entry to the island. The airport code is PLS. 
+
+
+
+
