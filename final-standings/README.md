@@ -4,7 +4,7 @@ owner: jeningolia
 description: The Leaderboard
 chat: [sales-enablement]
 repos: [github/sales-enablement]
-position: 6
+position: 4
 ---
 
 Coming Soon!
