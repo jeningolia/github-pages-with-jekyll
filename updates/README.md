@@ -4,7 +4,7 @@ owner: jeningolia
 description: The latest and greatesr
 chat: [sales-enablement]
 repos: [github/sales-enablement]
-position: 8
+position: 6
 ---
 
 This is where you'll find any important updates regarding Club. Check in here for the latest and greatest!
