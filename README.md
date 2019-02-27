@@ -1,7 +1,7 @@
 <H2>Welcome to Club19 Site!</H2>
 
 
-_<H3>Congratulations!</H3>_ We are honored to you have you and a guest join us at our first annual Sales incentive trip. 
+_Congratulations!_ We are honored to you have you and a guest join us at our first annual Sales incentive trip. 
 
 ## Club19 Location and Dates
 <img width="622" alt="screen shot 2019-02-26 at 7 26 43 pm" src="https://user-images.githubusercontent.com/14840774/53463688-7fca0a80-39fc-11e9-92f0-aa173e5a8aef.png">
