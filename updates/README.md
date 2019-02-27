@@ -1,7 +1,7 @@
 ---
 title: Updates
 owner: jeningolia
-description: The latest and greatesr
+description: The latest and greatest
 chat: [sales-enablement]
 repos: [github/sales-enablement]
 position: 7
