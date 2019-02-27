@@ -31,3 +31,32 @@ Feast your eyes: <br>
 
 ![427_sc_paradise_2521](https://user-images.githubusercontent.com/35385392/45719748-67ed8100-bb56-11e8-8a79-780fda88857a.jpg)
 
+### Hotel Amenities
+
+* Hotel Concierge
+* 4 Pools
+* 3 Restaurants & 3 Bars
+* Fitness & Tennis Facilities
+* Watersports & Complimentary Bikes
+* Business Center
+
+### Room Accommodations
+
+You and your guest will enjoy one of the Junior Suite Garden View or the Junior Suite Pool View rooms. The Suites have the following characteristics and amenities:
+
+### Characteristics
+
+* **Occupancy:** 2; 3 Max
+* **Size:** 640 Sqare Feet
+* **Views:** Garden
+* **Baths:** 1
+* **Bedding:** King
+
+### Suite Amenities
+
+* Complimentary Wifi
+* Private Terrace
+* Flatscreen TV with Cable
+* Mini-Bar
+* Nespresso Machine
+* Soaking Tub & Separate Shower
