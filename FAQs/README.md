@@ -4,7 +4,7 @@ owner: jeningolia
 description: Have questions about Club? You've come to the right place
 chat: [sales-enablement]
 repos: [github/sales-enablement]
-position: 8
+position: 3
 ---
 
 
