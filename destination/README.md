@@ -11,7 +11,11 @@ position: 1
 We are headed to the beautiful island of Turks and Caicos, a small tropical archipelago nation found south of the Bahamas. Home to spectacular beaches with crystal clear, warm ocean water, a pristine and abundant marine environment, luxury resorts and fine dining. Definitely one of the best vacation destinations of the Caribbean! 
 
 ## The Shore Club Hotel
-[The Shore Club](http://www.theshoreclubtc.com/) is the first resort on Turks and Caicos’ unspoiled Long Bay Beach where lush gardens lead to soft white sand and a limitless horizon of blue. Only a short flight from Miami and minutes from downtown Grace Bay, Long Bay Beach is the most private section of Providenciales. The island is small, where the max time you'll spend in a car is 15 minutes. The Shore Club hotel is the newest hotel on the island and was just named among the “10 Best Island Beaches around the World” by Condé Nast Traveler, its shallow, wave-less beach offers both idyllic seclusion and sophisticated luxury. For current weather, [click here](https://www.theweathernetwork.com/tc/14-day-weather-trend/-/providenciales).
+[The Shore Club](http://www.theshoreclubtc.com/) is the first resort on Turks and Caicos’ unspoiled Long Bay Beach where lush gardens lead to soft white sand and a limitless horizon of blue. Only a short flight from Miami and minutes from downtown Grace Bay, Long Bay Beach is the most private section of Providenciales. The island is small, where the max time you'll spend in a car is 15 minutes. The Shore Club hotel is the newest hotel on the island and was just named among the “10 Best Island Beaches around the World” by Condé Nast Traveler, its shallow, wave-less beach offers both idyllic seclusion and sophisticated luxury. For current weather, [click here](https://www.theweathernetwork.com/tc/14-day-weather-trend/-/providenciales). 
+
+* [The Shore Club Website](https://www.theshoreclubtc.com/)
+* Shore Club Beach, Grace Bay TKCA 1ZZ, Turks & Caicos Islands
+
 
 Feast your eyes: <br>
 
