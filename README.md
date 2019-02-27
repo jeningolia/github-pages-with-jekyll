@@ -1,4 +1,4 @@
-<H2>Welcome to Club19 Site!</H2>
+<H2>Welcome to the Club19 Site!</H2>
 
 
 _Congratulations!_ We are honored to you have you and a guest join us at our first annual Sales incentive trip. 
