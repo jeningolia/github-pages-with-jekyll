@@ -37,4 +37,12 @@ Please read through the arrival and departure instructions below in detail. Youâ
 
 All attendees can depart Turks and Caicos any time on Friday, May 17th. 
 
+#### Extending your Stay Before or After
+For attendees who want to arrive early and/or depart late to enjoy Turks and Caicos, the hotel will honor our group rates three days prior to 5/13 and three days post 5/17. These rates are subject to hotel availability. Please provide your desired arrival and departure dates PRIOR to booking your flights. We will check hotel availability and confirm with you once requested. 
 
+
+
+
+
+
+If you are interested in extending your stay either before or after the Club19 dates, 
