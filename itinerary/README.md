@@ -11,7 +11,7 @@ position: 4
 _**Reminder: Please do not book your flights yet. We are finalizing the process for this and will be providing more specifics shortly!**_
 
 ### Sunday, May 12th - EMEA and West Coast Arrivals
-Those traveling from EMEA and those traveling from the West Coast who are unable to arrive in time for the Welcome Reception should arrive in Turks and Caicos on Sunday, May 12th. 
+Those traveling from EMEA and those traveling from the West Coast who are unable to arrive in time for the 6pm Monday evening Welcome Reception should arrive in Turks and Caicos on Sunday, May 12th. 
 
 ### Monday, May 13th - Central and East Region Arrivals
 Those traveling from anywhere within the Central and East regions should arrive on Monday, May 13th. Hotel check-in for guests arriving Monday is 3pm. 
