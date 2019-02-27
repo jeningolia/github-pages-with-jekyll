@@ -40,11 +40,11 @@ Feast your eyes: <br>
 * Watersports & Complimentary Bikes
 * Business Center
 
-### Room Accommodations
+### Suite Accommodations
 
 You and your guest will enjoy one of the Junior Suite Garden View or the Junior Suite Pool View rooms. The Suites have the following characteristics and amenities:
 
-### Characteristics
+#### Characteristics
 
 * **Occupancy:** 2; 3 Max
 * **Size:** 640 Sqare Feet
@@ -52,7 +52,7 @@ You and your guest will enjoy one of the Junior Suite Garden View or the Junior 
 * **Baths:** 1
 * **Bedding:** King
 
-### Suite Amenities
+#### Suite Amenities
 
 * Complimentary Wifi
 * Private Terrace
