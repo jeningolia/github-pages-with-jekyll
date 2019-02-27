@@ -32,9 +32,9 @@ position: 6
 * Vitor Monteiro
 
 ### Top Sales Support
-Jen Tam
-Jenn Lachman
-John Moll
+* Jen Tam
+* Jenn Lachman
+* John Moll
 
 ### Top Non-Sales Contributors
 * Barb Kozlowski
